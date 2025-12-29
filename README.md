@@ -15,9 +15,9 @@
 
 ## 🎯 What I'm Working On
 
-**Currently:** Teaching computers to find **5×5 pixel bacteria** in **150K×60K pixel images** for veterinary pathology.
+**Currently:** Teaching computers to find **5×5 pixel bacteria** in **150K×60K pixel images** and deploying **Campus-Scale RAG systems** for universities.
 
-I specialize in **Computer Vision**, **RAG systems**, and **Reinforcement Learning**. My focus is on building pipelines that solve real problems—whether that's helping pathologists catch diseases they'd miss, or structuring thousands of incident reports for BMW engineers.
+I specialize in **Computer Vision**, **RAG systems**, and **Reinforcement Learning**. My focus is on building pipelines that solve real problems—whether that's helping pathologists catch diseases they'd miss, or reducing onboarding friction for hundreds of international students.
 
 ---
 
@@ -25,11 +25,11 @@ I specialize in **Computer Vision**, **RAG systems**, and **Reinforcement Learni
 
 <div align="center">
 
-| 🦠 **Active Learning (WSI)** | 🏭 **RAG for BMW** | 🃏 **RL at Scale** | 🚗 **OCR Pipeline** |
+| 🦠 **Active Learning (WSI)** | 🎓 **AI Student Mentor** | 🏭 **RAG for BMW** | 🃏 **RL at Scale** |
 |:---:|:---:|:---:|:---:|
-| **150K×60K px** Images | **1,000+** Incident Reports | **5M** Hand Simulation | **5,000+** Records/Run |
-| 41% → 50% mAP50 | Hybrid Retrieval (DB+API) | +20% Win Rate | 85% Manual Entry Cut |
-| Laboklin Partnership | Quality Analysis System | Double Q-Learning | Reliability +25% |
+| **150K×60K px** Images | **THWS** Faculty Portal | **1,000+** Incident Reports | **5M** Hand Simulation |
+| 41% → 50% mAP50 | 90%+ Retrieval Precision | Hybrid Retrieval (DB+API) | +20% Win Rate |
+| Laboklin Partnership | Hosted by University | Quality Analysis System | Double Q-Learning |
 
 </div>
 
@@ -38,6 +38,12 @@ I specialize in **Computer Vision**, **RAG systems**, and **Reinforcement Learni
 Building a hierarchical detection pipeline for 5x5px bacteria in massive Whole Slide Images (WSI).
 - **Impact:** Discovered **300+ correct annotations** missed by pathologists in the first iteration.
 - **Result:** Improved mAP50 from 41% to 50% using active learning cycles.
+
+### 🎓 CAIRA: RAG-Powered AI Student Mentor `THWS`
+**Stack:** Qwen 8B • FAISS • Semantic Chunking • RAG
+Architecting a RAG pipeline to provide **24/7 automated peer mentoring** for incoming international cohorts.
+- **Tech:** Optimized inference efficiency with semantic chunking and advanced vector indexing on resource-constrained environments.
+- **Impact:** Achieved **90%+ retrieval precision** for specialized academic queries, directly reducing student onboarding friction.
 
 ### 🚗 BMW Lessons Learned System `Quality Analysis`
 **Stack:** RAG • LLMs • Plotly • Power BI
