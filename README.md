@@ -1,155 +1,131 @@
 <div align="center">
 
-# Rohan Sanjay Patil 🇮🇳🇩🇪
+<img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&weight=700&size=35&duration=3000&pause=1000&color=ccff00&center=true&vCenter=true&width=600&lines=ROHAN+PATIL;AI+ENGINEER;BUILDING+SYSTEMS+THAT+WORK" alt="Typing SVG" />
 
-### MSc AI @ THWS | Building ML Systems That Actually Work
+<h3 style="color: #ccc;">MSc AI @ THWS | Computer Vision Specialist | RAG Engineer</h3>
 
-[![Email](https://img.shields.io/badge/Email-5B2C6F?style=flat-square&logo=gmail&logoColor=white)](mailto:rohanpatilrsp@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B2C6F?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohan-patil18)
-[![Portfolio](https://img.shields.io/badge/Portfolio-5B2C6F?style=flat-square&logo=react&logoColor=white)](https://rohan2700.github.io/)
-![Profile Views](https://komarev.com/ghpvc/?username=rohan2700&color=5B2C6F&style=flat-square)
+<p>
+<a href="mailto:rohanpatilrsp@gmail.com">
+  <img src="https://img.shields.io/badge/Email-rohanpatilrsp%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=ccff00&labelColor=101010" />
+</a>
+<a href="https://www.linkedin.com/in/rohan-patil18">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=ccff00&labelColor=101010" />
+</a>
+<a href="https://rohan-patil-ai.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-ccff00?style=for-the-badge&logo=googlechrome&logoColor=000000&labelColor=ccff00" />
+</a>
+</p>
 
-*Bridging the gap between research papers and production systems*
+<br>
 
-</div>
-
----
-
-## 🎯 What I'm Working On
-
-**Currently:** Teaching computers to find 5×5 pixel bacteria in 150K×60K pixel images.
-
-I specialize in **Computer Vision** and **RAG systems** that solve real problems—whether that's helping veterinary pathologists catch diseases they'd otherwise miss, or helping engineers at BMW find solutions buried in thousands of incident reports.
-
----
-
-## 🔬 Research & Impact
-
-<div align="center">
-
-| 🦠 **Active Learning Pipeline** | 🏭 **RAG for BMW** | 🎲 **RL at Scale** | 🚗 **OCR for Production** |
-|:---:|:---:|:---:|:---:|
-| **150K×60K px** WSI | **1,000+** documents | **5M** training hands | **5,000+** records/run |
-| 41%→50% mAP50 | Semantic search + analytics | +20% over baseline | 85% error reduction |
-| Laboklin partnership | BMW quality system | Double Q-Learning | OCR pipeline automation |
+<p align="center">
+  <samp>
+    Bridging the gap between <b>Research Papers</b> and <b>Production Systems</b>.
+    <br>Currently teaching computers to find 5×5 pixel bacteria in 150K×60K pixel images.
+  </samp>
+</p>
 
 </div>
 
-### 🧬 H.Pylori Detection @ Laboklin `In Progress`
-Building a hierarchical detection pipeline that outperforms human pathologists. Used active learning to discover **300+ missed annotations** in the first iteration alone. Working with YOLOv8 and R-CNN on whole slide images where the bacteria are literally the size of a few pixels.
+<br>
 
-**The Challenge:** Imagine playing "Where's Waldo" but Waldo is 5 pixels tall and the image is the size of a football field.
-
-### 🚗 BMW Lessons Learned System `Shipped`
-Engineered a RAG system that lets quality engineers semantic-search through incident reports instead of drowning in spreadsheets. Built the entire stack—from ETL pipelines to React dashboards.
-
-**Impact:** Cross-department trend analysis that actually gets used.
-
-### 🃏 Blackjack RL Research `Published`
-Trained reinforcement learning agents on millions of hands under realistic casino conditions. Improved natural Blackjack win rates from 2.29% to 2.75%—a 20% gain over baseline Monte Carlo methods. Implemented card counting, rule variations, and house edge analysis.
-
-**Fun Fact:** Still wouldn't recommend trying this in Vegas.
-
----
-
-## 🛠️ Tech Stack
+## 🧪 Selected Research & Impact
 
 <table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 ML & Computer Vision
-![PyTorch](https://img.shields.io/badge/PyTorch-8B5CF6?style=flat-square&logo=pytorch&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8-7C3AED?style=flat-square&logo=yolo&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-6D28D9?style=flat-square&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5B21B6?style=flat-square&logo=opencv&logoColor=white)
-
-**Deep Expertise In:**
-- Object Detection (YOLO, R-CNN)
-- RAG Systems & LLM Integration
-- Active Learning Pipelines
-- Reinforcement Learning
-- ETL & Data Engineering
-
-### 📊 Data & MLOps
-![Docker](https://img.shields.io/badge/Docker-8B5CF6?style=flat-square&logo=docker&logoColor=white)
-![W&B](https://img.shields.io/badge/Weights_&_Biases-7C3AED?style=flat-square&logo=weightsandbiases&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-6D28D9?style=flat-square&logo=tableau&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-5B21B6?style=flat-square&logo=postgresql&logoColor=white)
-
-**Tools:** Power BI • Git • REST APIs • QuPath
-
-</td>
-<td width="50%" valign="top">
-
-### 💻 Engineering
-![Python](https://img.shields.io/badge/Python-8B5CF6?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-7C3AED?style=flat-square&logo=cplusplus&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-6D28D9?style=flat-square&logo=javascript&logoColor=white)
-![React](https://img.shields.io/badge/React-5B21B6?style=flat-square&logo=react&logoColor=white)
-
-**Languages:** Python • C++ • JavaScript • Java • SQL
-
-**Frameworks:** Flask • React • Plotly • Pandas
-
-### 🎯 Specialized Skills
-- Medical Image Analysis (WSI)
-- Document Intelligence (OCR)
-- Hybrid Retrieval Systems
-- High-Scale Data Processing
-- Web Interface Development
-
-</td>
-</tr>
+  <tr>
+    <td width="60%" valign="top">
+      <h3 align="center">🧬 H.Pylori Detection (Active Learning)</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-In%20Progress-ccff00?style=flat-square&labelColor=000000" />
+        <img src="https://img.shields.io/badge/Tech-YOLOv8-333333?style=flat-square&labelColor=000000&color=555555" />
+      </p>
+      <p>Building a hierarchical detection pipeline that outperforms human pathologists on WSI images.</p>
+      <blockquote>
+        <b>The Challenge:</b> Imagine playing "Where's Waldo" but Waldo is 5 pixels tall and the image is the size of a football field.
+      </blockquote>
+      <ul>
+        <li><b>Data:</b> 150K×60K px Whole Slide Images</li>
+        <li><b>Impact:</b> Discovery of <b>300+ missed annotations</b> in iteration 1</li>
+        <li><b>Result:</b> Improved mAP50 from 41% → 50%</li>
+      </ul>
+    </td>
+    <td width="40%" valign="top">
+      <h3 align="center">🚗 BMW Quality RAG</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Shipped-999999?style=flat-square&labelColor=000000" />
+      </p>
+      <p>Engineered a RAG system allowing semantic search through thousands of incident reports.</p>
+      <ul>
+        <li><b>Stack:</b> Hybrid Retrieval (DB+API)</li>
+        <li><b>Scale:</b> 1,000+ unstructured docs</li>
+        <li><b>Outcome:</b> Cross-department trend analysis dashboard used by engineers.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">🃏 Blackjack RL Agent</h3>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Status-Published-999999?style=flat-square&labelColor=000000" />
+      </p>
+      <p>Trained RL agents on <b>5 Million hands</b> under realistic casino conditions (Card counting, rule variations).</p>
+      <ul>
+        <li><b>Algo:</b> Double Q-Learning</li>
+        <li><b>Gain:</b> +20% win rate over baseline Monte Carlo.</li>
+        <li><b>Fun Fact:</b> Still wouldn't recommend trying this in Vegas.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">📄 Production OCR Pipeline</h3>
+      <p align="center">
+         <img src="https://img.shields.io/badge/Status-Deployed-999999?style=flat-square&labelColor=000000" />
+      </p>
+      <p>Benchmarked 6 engines to build a pipeline processing <b>5,000+ records/run</b>.</p>
+      <ul>
+        <li><b>Impact:</b> 85% reduction in manual data entry.</li>
+        <li><b>Validation:</b> Found 12 critical defects in Auto-Parking systems.</li>
+      </ul>
+    </td>
+  </tr>
 </table>
 
----
+<br>
 
-## 💼 Professional Experience
-
-**🎓 Student Assistant (HiWi)** @ Julius Maximilians Universität  
-Implementing RAG systems for German startups. Building ETL pipelines and React dashboards for semantic document search.
-
-**🔬 ML & Research Intern** @ Compsoft Technologies  
-Benchmarked 6 OCR engines across 8 document types. Built production Python pipelines processing 5K+ records/run. Validated Automated Parking Systems—found 12 critical defects and improved reliability by 25%.
-
----
-
-## 📈 Notable Projects
-
-### 🚓 Urban Safety Pattern Analysis `97% F1-Score`
-Engineered ensemble framework (k-NN, Random Forest, Extra Trees) achieving 93.5% accuracy on imbalanced socio-economic data. End-to-end predictive pipeline with visualization.
-
-### 🚗 Automated Parking System Validation `+25% Reliability`
-Python OCR pipeline with 85% manual entry reduction. Comprehensive testing suite identifying critical defects.
-
----
-
-## 🎓 Education & Certifications
-
-**MSc in Artificial Intelligence** • THWS (2025–Present)  
-**BE in Computer Science** • BMSIT (2020–2024) • CGPA: 8.4/10
-
-**Certifications:**
-- Complete Data Science Bootcamp (Udemy)
-- Train ML Models for Document Understanding (UiPath)
-
----
+## ⚡ Technical Arsenal
 
 <div align="center">
 
-### 🌟 What Makes Me Different
+| **AI & Computer Vision** | **Data & MLOps** | **Engineering** |
+| :--- | :--- | :--- |
+| ![PyTorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-000000?style=flat-square&logo=docker&logoColor=white) | ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white) |
+| ![YOLOv8](https://img.shields.io/badge/YOLOv8-000000?style=flat-square&logo=yolo&logoColor=ccff00) | ![W&B](https://img.shields.io/badge/W&B-000000?style=flat-square&logo=weightsandbiases&logoColor=white) | ![C++](https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white) |
+| ![OpenCV](https://img.shields.io/badge/OpenCV-000000?style=flat-square&logo=opencv&logoColor=white) | ![SQL](https://img.shields.io/badge/SQL-000000?style=flat-square&logo=postgresql&logoColor=white) | ![React](https://img.shields.io/badge/React-000000?style=flat-square&logo=react&logoColor=white) |
+| ![RAG](https://img.shields.io/badge/RAG-000000?style=flat-square&logo=openai&logoColor=white) | ![Tableau](https://img.shields.io/badge/Tableau-000000?style=flat-square&logo=tableau&logoColor=white) | ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) |
 
-I don't just build models—I build **systems that people actually use**. From medical imaging pipelines processing gigapixel images to RAG systems that help engineers find answers in seconds, I focus on bridging the gap between research and real-world deployment.
+</div>
 
-**Languages:** English (C1) • German (B1) • Python (Native) 😄
+<br>
 
----
+## 💼 Experience Timeline
 
-### 📫 Let's Connect
+#### 🎓 Student Assistant (HiWi) `Present`
+**@ Julius Maximilians Universität**
+> Implementing RAG systems for German startups. Building ETL pipelines and React dashboards for semantic document search.
 
-**Open to:** Research Collaboration • ML Engineering Opportunities • AI Consulting Projects
+#### 🔬 ML & Research Intern `2024`
+**@ Compsoft Technologies**
+> Benchmarked 6 OCR engines across 8 document types. Built production Python pipelines processing 5K+ records/run. Validated Automated Parking Systems—improved reliability by 25%.
 
-*Currently based in Würzburg, Germany 🇩🇪*
+<br>
+
+<div align="center">
+
+### 🚀 Let's Build Something Intelligent.
+
+I don't just build models—I build **systems that people actually use**. From medical imaging pipelines processing gigapixel images to RAG systems that help engineers find answers in seconds.
+
+<a href="https://rohan-patil-ai.github.io/">
+<img src="https://img.shields.io/badge/VISIT_PORTFOLIO-ccff00?style=for-the-badge&logo=googlechrome&logoColor=black" />
+</a>
 
 </div>
